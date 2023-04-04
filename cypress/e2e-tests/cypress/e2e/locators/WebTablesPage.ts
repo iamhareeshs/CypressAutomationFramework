@@ -1,0 +1,14 @@
+export const elementsTab = 'h5:contains(\'Elements\')';
+export const webtables = 'span:contains(\'Web Tables\')';
+export const addButton = '#addNewRecordButton';
+export const firstName = '#firstName';
+export const lastName = '#lastName';
+export const email = '#userEmail';
+export const age = '#age';
+export const salary = '#salary';
+export const department = '#department';
+export const submitButton = '#submit';
+export const tableRows = 'div[class=\'rt-td\']';
+export const editButton =  '#edit-record-2';
+export const editFirstName = 'div[class=\'rt-tr -even\']>div:nth-child(1)';
+export const editLastName = 'div[class=\'rt-tr -even\']>div:nth-child(2)';

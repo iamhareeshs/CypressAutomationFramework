@@ -1,0 +1,12 @@
+{
+  "user": {
+    "firstname": "Alden",
+    "lastname": "Cantrell",
+    "age": "30",
+    "email": "test@test.com",
+    "salary": "12345",
+    "department": "QA",
+    "editedFirstName": "Gerimedica",
+    "editedLastName": "BV"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "firstname": "Gerimedica",
+    "lastname": "BV",
+    "email": "test@test.com",
+    "gender": "Male",
+    "age": "30",
+    "mobile": "0123456789",
+    "dob": "15 Jan 1990",
+    "subject": "Cypress Assignment",
+    "hobbies": "Sports",
+    "picture": "cypress/fixtures/images/newimage.jpeg",
+    "currentAddress": "Netherland",
+    "state": "NCR",
+    "city": "Delhi"
+}
